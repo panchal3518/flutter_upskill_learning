@@ -1,3 +1,6 @@
 [submodule "l_core"]
 	path = l_core
 	url = https://github.com/panchal3518/l_core.git
+[submodule "l_examples"]
+	path = l_examples
+	url = https://github.com/panchal3518/l_examples.git
