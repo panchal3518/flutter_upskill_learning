@@ -1,0 +1,3 @@
+[submodule "l_core"]
+	path = l_core
+	url = https://github.com/panchal3518/l_core.git
